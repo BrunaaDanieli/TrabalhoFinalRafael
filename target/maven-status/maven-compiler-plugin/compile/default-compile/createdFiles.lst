@@ -1,0 +1,14 @@
+br/edu/iftm/upt/ads/daw2/controle/trabalho_final/DAOFactory.class
+br/edu/iftm/upt/ads/daw2/controle/trabalho_final/UsuarioDAO.class
+br/edu/iftm/upt/ads/daw2/controle/trabalho_final/ItemDAO.class
+modelo/Livro.class
+modelo/Usuario.class
+modelo/Item.class
+modelo/Pedido.class
+br/edu/iftm/upt/ads/daw2/controle/trabalho_final/ConexaoFactory.class
+controle/ServletControleVendas.class
+controle/ServletRelatorio.class
+controle/ServletLivros.class
+br/edu/iftm/upt/ads/daw2/controle/trabalho_final/LivroDAO.class
+modelo/CarrinhoCompras.class
+br/edu/iftm/upt/ads/daw2/controle/trabalho_final/PedidoDAO.class

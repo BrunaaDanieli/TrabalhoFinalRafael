@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Trabalho_Final">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" factory="com.zaxxer.hikari.HikariJNDIFactory" jdbcUrl="jdbc:mysql://localhost:3306/gerenciadorlivros" maxIdle="30" maxTotal="100" maxWaitMillis="10000" name="jdbc/gerenciadorlivros" password="12345" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/gerenciadorlivros" username="root"/>
+</Context>
